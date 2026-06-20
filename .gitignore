@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated review outputs (keep directory placeholders)
+outputs/review_reports/*
+!outputs/review_reports/.gitkeep
+outputs/tables/*
+!outputs/tables/.gitkeep
